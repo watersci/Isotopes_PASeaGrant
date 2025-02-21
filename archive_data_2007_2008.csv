@@ -1,0 +1,74 @@
+Year,River,Species,Class,d13C,stdev_C,d15N,stdev_N
+2008,creek,corbiculae,bivalve,-27.77,0.39,6.04,0.65
+2008,marsh,corbiculae,bivalve,-29.15,0.23,10.68,0.12
+2007,creek,corbiculae,bivalve,-25.85,0,4.65,0.07
+2007,creek,corbiculae,bivalve,-25.29,0.01,4.66,0.08
+2007,marsh,corbiculae,bivalve,-28.37,0.26,9.27,0.1
+2007,marsh,corbiculae,bivalve,-27.89,0.03,9.48,0.02
+2008,creek,anros,fish,-24.34,0.27,8.93,0.44
+2008,marsh,anros,fish,-25.17,0.8,15.26,0.31
+2008,creek,banded killfish,fish,-23.97,0.25,9.38,0.26
+2008,marsh,banded killfish,fish,-24.06,0.25,15.19,0.17
+2007,marsh,banded killfish,fish,-23.46,0.26,13.48,0.13
+2007,marsh,banded killfish,fish,-23.07,0.03,13.48,0.05
+2007,creek,banded killfish,fish,-23.16,0,8.89,0.02
+2007,creek,banded killfish,fish,-22.69,0.02,8.95,0.07
+2007,marsh,brown bullhead catfish,fish,-23.96,0.66,13.53,1.18
+2007,marsh,brown bullhead catfish,fish,-23.542229,0.02,13.46,1.06
+2007,creek,channel catfish,fish,-26.34821428,1.29,14.04,2.9
+2007,creek,channel catfish,fish,-24.62,0.63,14.14,2.97
+2007,marsh,channel catfish,fish,-25.67,0.19,14.37,0.09
+2007,marsh,channel catfish,fish,-24.84,0.19,14.47,0.23
+2008,creek,darter,fish,-25.22,0.33,9.01,1.71
+2008,marsh,darter,fish,-25.65,0.05,16.02,0.03
+2008,creek,eastern silvery minnow,fish,-26.86,0.71,10.94,3.08
+2007,marsh,Gizzard Shad,fish,-26.73,0.02,14.22,0.04
+2007,marsh,Gizzard Shad,fish,-22.19,2.88,14.26,0.1
+2007,creek,mummichug,fish,-23.39,0.01,9.83,0.07
+2007,creek,mummichug,fish,-23.03,0.01,9.86,0.02
+2007,marsh,mummichug,fish,-23.1,0.14,13.44,0.06
+2007,marsh,mummichug,fish,-22.62,0.01,13.34,0.03
+2008,creek,mummichug,fish,-24.36,0.3,10.71,0.52
+2008,marsh,mummichug,fish,-23.51,0.24,14.63,0.25
+2008,marsh,Pumpkinseed,fish,-25.52,1.73,15.22,0.25
+2007,marsh,Pumpkinseed,fish,-23.8587585,0.37,12.16,0.02
+2007,marsh,Pumpkinseed,fish,-23.49,0.07,12.17,0.05
+2008,marsh,red breast,fish,-27.1,0.11,15.41,0.07
+2008,marsh,small prey fish,fish,-27.68,0.92,14.08,0.47
+2007,marsh,white catfish,fish,-25.41,0.2,13.79,0.06
+2007,marsh,white catfish,fish,-23.51,0.03,14.48,0.08
+2007,marsh,White Perch,fish,-22.97,0.09,14.6,0.01
+2007,marsh,White Perch,fish,-22.06,0.09,14.61,0.01
+2007,creek,white sucker,fish,-24.61,0.33,9.52,0.04
+2007,creek,white sucker,fish,-23.47,0.05,9.43,0.01
+2007,marsh,white sucker,fish,-24.65,0.12,13.63,0.09
+2007,marsh,white sucker,fish,-23.58,0.11,13.53,0.05
+2008,creek,amphipods,invert,-26.39,0.1,5.24,0.06
+2008,marsh,amphipods,invert,-26.72,0.44,11.85,0.93
+2007,creek,amphipods,invert,-25.54,0.4,3.82,0.03
+2007,creek,amphipods,invert,-24.78,0.05,3.78,0.03
+2008,creek,crayfish,invert,-26.41,0.14,9.21,0.11
+2008,marsh,crayfish,invert,-26.92,0.01,14,0.16
+2008,creek,isopoda,invert,-28.34,0.96,5.01,0.46
+2008,creek,worms,invert,-29.24,,7.32,
+2008,marsh,worms,invert,-27.86,0.56,11.83,0.95
+2008,marsh,algae,algae,-21.81,0.28,10.58,0.45
+2008,creek,algae,algae,-29.04,2.52,1.47,0.74
+2008,creek,algae,algae,-22.9,0.5,4.31,0.71
+2008,creek,algae,algae,-25.22,0.27,4.71,0.15
+2008,creek,common elodea,plant,-31.45,0.51,3.95,0.79
+2008,creek,curly pondweed,plant,-29.66,0.19,4.83,0
+2008,marsh,nuphar,plant,-27.02,0.17,10.35,0.03
+2008,marsh,nuphar,plant,-27.69,0.61,3.35,4.53
+2008,creek,nuphar,plant,-31.25,0.41,6.26,0.27
+2008,marsh,nuphar,plant,-29.51,1.51,5.45,4.49
+2008,marsh,polygonum,plant,-30.94,0.41,13.45,0.06
+2008,creek,polygonum,plant,-30.57,0.05,8.32,0.06
+2008,creek,sediment,sediment,-23.62,0.78,4.03,1.01
+2007,creek,sediment,sediment,-24.34288845,0.11,2.91,0.22
+2007,marsh,sediment,sediment,-26.18,0.02,5.06,0.25
+2008,creek,sediment algae,algae,-31.3,0.9,0.79,0.6
+2008,marsh,sediment,sediment,-25.02,0.95,7.17,1.35
+2008,marsh,sediment algae,algae,-25.13,0.01,8.06,0.65
+2008,creek,water,filter,-26.34,0.27,3.99,0.51
+2008,marsh,water,filter,-27.6,0.48,8.93,0.58
