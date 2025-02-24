@@ -15,6 +15,7 @@ R package tRophicPosition was used for trophic position estimation using both δ
 Above, we applied the hierarchical Bayesian methods implemented in tRophicPosition to obtain refined, statistically robust trophic position and diet proportionality estimates that account for uncertainty in both δ¹³C and δ¹⁵N data. Additionally, we employed the simpler, δ¹⁵N‐only approach of Vander Zanden et al. (1997) to include all available species; presenting both analyses strengthens our work by offering complementary evidence and cross-validation of trophic structure. Although, the small number of replicates should always be considered for these methods. This approach adjusts for baseline variability by comparing the δ¹⁵N of consumers to that of a long-lived baseline organism. In our analysis, the bivalve Corbicula fluminea was used as the baseline because it integrates temporal variability in δ¹⁵N from primary production and is assigned a trophic level of 2. For this method an increase of 3.4‰ in δ¹⁵N is considered equivalent to a one trophic level increase (Eq. 3).
 
 ![Alternative Text](Sample_n_Table_Img.png)
+
 Table 1. 18 consumer species were collected during the Ashley et. al. (2012) collection. The number of individuals varied by species and by site location within the John Heinz National Wildlife Refuge at Tinicum Marsh.
 
 # Results
